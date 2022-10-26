@@ -7,7 +7,9 @@
 ### SOAL
 #### Anda sudah mengerti algoritma pemrosesan metode Bolzano, dan anda sudah memahami cara kerjanya. Sekarang anda tinggal mengimplementasikan algoritma tersebut menjadi sebuah program komputer metode Bolzano (yang dapat menampilkan proses iteratif numerik, lengkap dengan grafik fungsinya).
 
+![image](https://user-images.githubusercontent.com/88714570/198076559-99573b39-6cfb-41b8-8c6b-d863476aa9b0.png)
 #### _Implementasi kode dalam melakukan iterasi_
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
