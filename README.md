@@ -1,8 +1,9 @@
-# P1_Komnum_D13
-Praktikum Komputasi Numerik Mengenai Pencarian Akar Persamaan dengan Metode Bolzano
+# Praktikum 1 Komputasi Numerik 
+## _Praktikum Komputasi Numerik Mengenai Pencarian Akar Persamaan dengan Metode Bolzano_
 
-**<br>Rayhan Arvianta Bayuputra
-<br>5025211217
-<br>Armadya Hermawan Sarwono
-<br>5025211243
-<br>Komnum D**
+- Rayhan Arvianta Bayuputra - 5025211217
+- Armadya Hermawan Sarwono - 5025211243
+
+### SOAL
+#### Anda sudah mengerti algoritma pemrosesan metode Bolzano, dan anda sudah memahami cara kerjanya. Sekarang anda tinggal mengimplementasikan algoritma tersebut menjadi sebuah program komputer metode Bolzano (yang dapat menampilkan proses iteratif numerik, lengkap dengan grafik fungsinya).
+
